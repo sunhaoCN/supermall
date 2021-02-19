@@ -9,7 +9,6 @@
                  @tabClick="tabClick"/>
     <goods-list :goods="showGoods"/>
 
-
   </div>
 </template>
 
